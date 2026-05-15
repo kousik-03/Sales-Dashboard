@@ -1,0 +1,17 @@
+									  PROJECT EXPLANATION
+First I should create DB in MySQL and use the DB.
+    --- Open Python,
+		Import MySQL. Connector,
+		Connect with MySQL Connector,
+		Use DB in python which is created in MySQL,
+		Create table in python and execute it,
+		Enter the values and execute it,
+		Finally run it on python.
+
+     --- Open MySQL,
+		Use Command, "Select * from `Table Name`";
+		Import into CSV File.
+		
+     --- Open Excel,
+		Use Converted CSV File in Excel,
+		create Interactive Dashboards.
